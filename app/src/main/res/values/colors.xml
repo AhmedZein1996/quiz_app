@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#09E7A2</color>
+    <color name="colorPrimaryDark">#09E7A2</color>
+    <color name="colorAccent">#FA7031</color>
+    <color name="white">#EBF0F0</color>
+    <color name="black">#0D0E0E</color>
+    <color name="yellow">#F8B50E</color>
+    <color name="brown">#682C19</color>
+    <color name="blue">#213EDD</color>
+    <color name="azure">#96CAE2</color>
+    <color name="light">#09E7A2</color>
+    <color name="gray">#C65C5F5F</color>
+</resources>
